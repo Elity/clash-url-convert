@@ -1,0 +1,13 @@
+proxies:
+  - name: Home
+    type: ss
+    server: router.ccc5.cc
+    port: 54322
+    cipher: aes-128-cfb
+    password: a331065834172
+
+log-level: "error"
+
+experimental:
+  test: "hahahaha"
+  ignore-resolve-fail: true
